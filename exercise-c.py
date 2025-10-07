@@ -124,3 +124,5 @@ except Exception as e:
 payroll = Payroll()
 departments = [dept_sales, dept_dev, dept_support]
 payroll.process_departments(departments)
+
+# Exercise C
